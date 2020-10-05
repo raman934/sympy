@@ -80,28 +80,28 @@ Abstract Domains
 Concrete Domains
 ****************
 
-.. autoclass:: FiniteField
+.. autoclass:: sympy.polys.domains.FiniteField
    :members:
 
-.. autoclass:: IntegerRing
+.. autoclass:: sympy.polys.domains.IntegerRing
    :members:
 
-.. autoclass:: PolynomialRing
+.. autoclass:: sympy.polys.domains.PolynomialRing
    :members:
 
-.. autoclass:: RationalField
+.. autoclass:: sympy.polys.domains.RationalField
    :members:
 
-.. autoclass:: AlgebraicField
+.. autoclass:: sympy.polys.domains.AlgebraicField
    :members:
 
-.. autoclass:: FractionField
+.. autoclass:: sympy.polys.domains.FractionField
    :members:
 
-.. autoclass:: RealField
+.. autoclass:: sympy.polys.domains.RealField
    :members:
 
-.. autoclass:: ExpressionDomain
+.. autoclass:: sympy.polys.domains.ExpressionDomain
    :members:
 
 Implementation Domains
