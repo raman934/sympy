@@ -107,14 +107,14 @@ Concrete Domains
 Implementation Domains
 **********************
 
-.. autoclass:: PythonFiniteField
-.. autoclass:: GMPYFiniteField
+.. autoclass:: sympy.polys.domains.PythonFiniteField
+.. autoclass:: sympy.polys.domains.GMPYFiniteField
 
-.. autoclass:: PythonIntegerRing
-.. autoclass:: GMPYIntegerRing
+.. autoclass:: sympy.polys.domains.PythonIntegerRing
+.. autoclass:: sympy.polys.domains.GMPYIntegerRing
 
-.. autoclass:: PythonRationalField
-.. autoclass:: GMPYRationalField
+.. autoclass:: sympy.polys.domains.PythonRationalField
+.. autoclass:: sympy.polys.domains.GMPYRationalField
 
 Level One
 =========
